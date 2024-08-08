@@ -1,0 +1,13 @@
+h1 {
+    font-family:impact;
+    font-size: 14;
+    color:aqua;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(207, 207, 207);
+}
