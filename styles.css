@@ -1,5 +1,5 @@
 h1 {
-    font-family:sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 20;
     color:aqua;
 }
@@ -10,10 +10,6 @@ h2 {
     color: white;
 }
 
-h3 {
-    font-family:sans-serif;
-    font-size:12;
-}
 body {
     background-color: cornflowerblue;
 }
@@ -29,7 +25,7 @@ table {
 }
 
 #table1 tr {
-    height: 22px;
+    height: 28px;
     background-color: rgb(167, 167, 167);
     border-bottom: 1px solid black;
 }
@@ -42,7 +38,7 @@ table {
 }
 #table1 td{
     font-size: 15px;
-    font-family: arial;
+    font-family:Verdana;
 }
 
 #table1 .centeredRow {
@@ -54,7 +50,7 @@ table {
     width: 55%;
 }
 #table2 tr{
-    height: 30px;
+    height: 33px;
     background-color: rgb(122, 180, 255);
     border-bottom: 1px solid black;
 }
@@ -101,7 +97,7 @@ tr:nth-child(odd) {
 }
 
 #table3 th{
-    padding: 12px;
+    padding: 10px;
     width: 65%;
     font-size: 20;
     font-family: arial;
@@ -109,7 +105,8 @@ tr:nth-child(odd) {
 
 #youtube {
     font-size: 18px;
-    font-family: arial;
+    font-family: impact;
+    font-style: oblique;
 }
 #click {
     font-family: arial;
